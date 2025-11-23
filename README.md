@@ -1,4 +1,4 @@
-# **Nano-Banana-Pro-Sketch-Board**
+# **[Nano-Banana-Pro-Sketch-Board](https://huggingface.co/spaces/prithivMLmods/Nano-Banana-Pro-Sketch-Board)**
 
 A web-based sketching application that allows users to draw or sketch ideas on a canvas and transform them into generated images using Google's Gemini AI models. Sketches are sent along with text prompts to the API for image generation or editing, enabling creative workflows like concept visualization or style transfer.
 
